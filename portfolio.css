@@ -539,7 +539,7 @@ section {
 
 @keyframes animate_path2 {
     100% {
-        stroke-dashoffset: 55;
+        stroke-dashoffset: 50;
     }
 }
 
